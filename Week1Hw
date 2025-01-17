@@ -1,0 +1,7 @@
+Command Line Interface (CLI) and Graphical User Interface (GUI) are two different ways users interact with computer systems.
+
+A CLI is text-based and requires users to type commands to perform specific tasks. It offers powerful control over the system and is favored by advanced users and developers for its efficiency and precision. Commands are entered into a terminal or console window, and the system responds with text output. CLIs are lightweight and consume fewer system resources. They are ideal for scripting and automating tasks, allowing users to execute complex sequences of commands quickly.
+
+In contrast, a GUI is visually oriented and allows users to interact with the system through graphical elements like windows, icons, buttons, and menus. GUIs are more intuitive and user-friendly, making them accessible to users with little technical knowledge. They provide a visual representation of the system's functions, making it easier to navigate and understand. GUIs are common in everyday computing environments, such as operating systems like Windows and macOS, and applications like web browsers and word processors.
+
+In summary, while CLIs offer more control and efficiency for experienced users, GUIs provide a more accessible and visually engaging experience for the general public. Each has its strengths and is suited to different types of tasks and user preferences.
