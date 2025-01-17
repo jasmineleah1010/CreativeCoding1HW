@@ -5,3 +5,4 @@ A CLI is text-based and requires users to type commands to perform specific task
 In contrast, a GUI is visually oriented and allows users to interact with the system through graphical elements like windows, icons, buttons, and menus. GUIs are more intuitive and user-friendly, making them accessible to users with little technical knowledge. They provide a visual representation of the system's functions, making it easier to navigate and understand. GUIs are common in everyday computing environments, such as operating systems like Windows and macOS, and applications like web browsers and word processors.
 
 In summary, while CLIs offer more control and efficiency for experienced users, GUIs provide a more accessible and visually engaging experience for the general public. Each has its strengths and is suited to different types of tasks and user preferences.
+
